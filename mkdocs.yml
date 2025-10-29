@@ -40,9 +40,13 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 nav:
-  - README.md
-  - storyboards.md
-  - use-cases.md
+  - api-project-scope.md
+  - api-collections.md
+  - api-receipt.md
+    - api-landing-page.md
+    - README.md
+    - storyboards.md
+    - use-cases.md
   - initial-scope.md
   - receivers-process-diagram.md
   - receipt-data-definitions.md
